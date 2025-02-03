@@ -1,0 +1,47 @@
+
+This doc contains all the git commands from Git & GitHub workshop by TWS ytb
+
+## To restore deleted files (tracked)
+   git restore <filename>
+
+## To move file from stagging to untracked 
+    git rm -- cached <filename>
+
+## To check the history of used git commands
+    history
+
+## To pull updates from github repository
+    git pull origin <branch name,mostly main master>
+
+## To push code to github repository 
+   git push -u origin <branch name>
+
+## To add file to stagging
+    git add <filename ,. for all files>
+
+## To add files to tracking stage
+   git commit -m "message"
+
+## To clone form github repository to local
+   git clone <<http ....>
+
+## To create new branch 
+   git branch <branch name>
+
+## To switch branch 
+   git branch checkout <branch name to set>
+
+## To make main branch
+    git branch -m main
+
+## To check connected repository
+   git remote -v 
+
+
+*********************************************************
+
+master - main branch from local repo
+masin -main branch from github repo
+
+Repo- fork (Github -GitHub code copy)
+     -clone (GitHub -Local code copy) 
