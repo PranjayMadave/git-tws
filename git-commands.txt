@@ -1,5 +1,5 @@
 
-This doc contains all the git commands from Git & GitHub workshop by TWS ytb
+This doc contains all the git commands from Git & GitHub workshop by TWS youtube
 
 ## To restore deleted files (tracked)
    git restore <filename>
