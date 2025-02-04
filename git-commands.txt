@@ -45,3 +45,9 @@ masin -main branch from github repo
 
 Repo- fork (Github -GitHub code copy)
      -clone (GitHub -Local code copy) 
+
+
+git hooks are used to establish type of quality gate /code quality etc using pre-commit and post-commit hooks 
+
+It is located in .git >> hooks >> samples ,create our own hook
+and make it executable also
