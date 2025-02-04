@@ -1,8 +1,19 @@
-This doc contains imp/ basic steps for every git file in-out operation
-step 1-- git init      --(initialized empty .git repository in the local file system, needed for every git operation)
-step 2-- git add filename or .      --(to add untracked files or all files to stagging step)
-step 3-- git commit -m "message"     --(to add files from staging to tracked 
-step 4-- git add origin ......      --( to set remote repository ) [Think needed only 1st time/day]
-step 5 -git set-url ...             --(to set access using PAT) think needed only 1st time 
+#### This doc contains imp/ basic steps for every git file in-out operation
+
+
+
+step 1-- git init      --(initialized empty .git repository in the local file syste          m, needed for every git operation)
+
+step 2-- git add filename or .    --(to add untracked files or all files to staggin          g step)
+
+step 3-- git commit -m "message"    --(to add files from staging to tracked stage)
+
+step 4-- git add origin ......      --( to set remote repository ) needed only 1st           time or else can also check git remote -v
+
+step 5 -- git set-url ...             --(to set access using PAT) needed only 1st            time or if needed can check git remote -v
+ 
 setp 6 --git branch                --(to check current branch)
+
 step 7 --git push origin main/branch name
+
+Done
