@@ -50,7 +50,7 @@ pre-commit
 post-commit
 pre-push
 post-push
-
+1
 git hooks are used to establish type of quality gate /code quality etc using pre-commit and post-commit hooks 
 
 It is located in .git >> hooks >> samples ,create our own hook
