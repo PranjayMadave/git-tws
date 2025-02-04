@@ -46,6 +46,10 @@ masin -main branch from github repo
 Repo- fork (Github -GitHub code copy)
      -clone (GitHub -Local code copy) 
 
+pre-commit 
+post-commit
+pre-push
+post-push
 
 git hooks are used to establish type of quality gate /code quality etc using pre-commit and post-commit hooks 
 
